@@ -27,6 +27,8 @@ This project is a basic to-do list application that allows users to add, edit, a
 ## Screenshots
 
 Include screenshots or GIFs showcasing the application's user interface and features.
+![ Screenshot of To-Do-List-Webapp ](img/screenshot.png)
+
 
 ## Usage
 
