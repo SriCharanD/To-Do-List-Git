@@ -31,11 +31,11 @@ function logic() {
   } else {
     console.log('list appended');
     let li = document.createElement('li');
-    li.innerHTML = input.value;
+    li.innerText = input.value;
     list.appendChild(li);
 
     let span = document.createElement('span');
-    span.innerHTML = '\u00d7';
+    span.innerText = '\u00d7';
     li.appendChild(span);
 
     
