@@ -15,14 +15,15 @@ input.addEventListener('keyup', function(event) {
 });
 
 
-function toggle() {
-  const check = document.getElementsByClassName('checked')[0];
-  if (check.style.display === 'none') {
-    check.style.display = 'block';
-  } else {
-    check.style.display = 'none';
-  }
-}
+// function toggle() {
+//   const check = document.getElementsByClassName('checked')[0];
+//   if (check.style.display === 'none') {
+//     check.style.display = 'block';
+//   } else {
+//     check.style.display = 'none';
+//   }
+// }
+
 
 function logic() {
   if (input.value === '') {

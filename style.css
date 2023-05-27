@@ -119,6 +119,7 @@ ul li::before{
 	left: -20px;
 	width: 17px;
 	height: 19px;
+	line-height: 19px;
 	border-radius: 50%;
 /*	box-shadow: 0px 0px 5px black;*/
 
@@ -142,6 +143,7 @@ ul li.checked::before{
 	background-position: center;
 /*	top: 12px;*/
 	left: -20px;
+	line-height: 19px;
 	width: 17px;
 	height: 19px;
 
