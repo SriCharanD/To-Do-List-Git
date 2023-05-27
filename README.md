@@ -1,13 +1,6 @@
-# Resposive-To-Do-List-WebApp
-# TaskManager
-# to-do-list
-# task-manager
-# javascript
-# html
-# css
-# web-development
-# project
+
 # To-Do List
+Resposive-To-Do-List-WebApp,TaskManager,to-do-list,task-manager,javascript,html,css,web-development,project
 
 A simple to-do list application built using HTML, CSS, and vanilla JavaScript.
 
